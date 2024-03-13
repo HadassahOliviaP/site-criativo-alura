@@ -1,5 +1,4 @@
-header{ background-color: #424E61;}
-.cabecalho-imagem{
+.cabecalho { 
     background-color: #424E61;
     color: white;
     display: flex;
@@ -7,7 +6,8 @@ header{ background-color: #424E61;}
     align-items: center;
     padding: 24px 0;
 }
-.cabecalho { 
+
+.cabecalho-imagem { 
     width: 20%;
 }
 
